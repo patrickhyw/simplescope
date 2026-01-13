@@ -1,0 +1,1 @@
+I renamed this repo to `logitscope`. Please see [https://github.com/patrickhyw/logitscope](https://github.com/patrickhyw/logitscope)!
